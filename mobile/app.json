@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "EventManagement",
+    "slug": "event-management",
+    "version": "1.0.0",
+    "platforms": ["ios", "android"],
+    "newArchEnabled": false
+  }
+}
