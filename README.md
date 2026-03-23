@@ -6,7 +6,7 @@ Application de gestion d'événements — Full Stack Next.js / Node.js / React N
 
 Application complète de gestion d'événements comprenant :
 - **Backend** : API REST Node.js/Express avec base de données PostgreSQL (Neon)
-- **Web** : Interface Next.js pour la gestion des événements
+- **Web** : Interface Next.js / TypeScript pour la gestion des événements
 - **Mobile** : Application React Native (Expo) pour les clients
 
 ---
