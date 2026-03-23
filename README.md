@@ -178,5 +178,3 @@ event-management-app/
 ## 👩‍💻 Auteur
 **Maram ABASSI** — Ingénieure Full Stack —
 
-**Maram ABASSI** — Ingénieure Full Stack
-[LinkedIn](https://linkedin.com/in/abassi-maram-29a50325b/) | [GitHub](https://github.com/AbassiMaram)
